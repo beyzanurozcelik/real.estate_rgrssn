@@ -1,2 +1,2 @@
 # real.estate_rgrssn
-emlak dataseti üzerinde regression modelleri kullanılarak ev ücretlerinin tahmin edilmesi uygulaması
+In this project I worked with real estate data, my purpose was predicting the estate prices. First I looked into data and understand it as much as I can. Then I looked if there is any missing values, there were so I handled them one by one. Then I checked outlier and took care of them. Applied label encoder to features needed it. Then I split dataset as train and test sets. I used K Nearest Neighbors regregssion model for this project, trained it and got predicts. For the last part I looked into evaluation metrics. 
